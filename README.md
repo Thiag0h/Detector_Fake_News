@@ -69,6 +69,3 @@ Este projeto implementa um detector de fake news em português utilizando aprend
 - Python 3.8+
 - Acesso à internet para baixar e processar artigos via link
 
-## 📄 Licença
-
-Este projeto é open-source e distribuído sob a licença MIT.
